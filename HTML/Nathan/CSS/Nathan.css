@@ -1,0 +1,56 @@
+.titulo-biografia-nathan{
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    color: rgb(4, 4, 160);
+}
+
+.biografia-nathan{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: start;
+}
+
+.foto-carro{
+    width: 50px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.guitarra-gato{
+    width: 90px;
+    display: block;
+    margin: auto;
+}
+
+.doctor-strangelove{
+    padding-top: 20px;
+    display: block;
+    margin: auto;  
+}
+
+.encerramento{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: hotpink;
+}
+
+.menu{
+display: block;
+
+}
+
+.link{
+    display: block;
+    margin: auto;
+
+}
+
+.foto-carro{
+    width: 400px;
+}
+
+.guitarra-gato{
+    width: 400px;
+}
