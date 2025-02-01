@@ -1,6 +1,6 @@
 # Minha Biografia
 
-##Tecnologias:
+## Tecnologias:
 
 - HTML5
 - CSS3
